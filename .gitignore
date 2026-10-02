@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+demo_workspace/
+eval_export*.csv
+.pytest_cache/
+
+.env
+.venv/
+__pycache__/
